@@ -1,7 +1,7 @@
 {
   "pages": [
-    "pages/book/main",
     "pages/users/main",
+    "pages/book/main",
     "pages/common/main"
   ],
   "window": {

@@ -17,3 +17,10 @@ export function get(url){
     })
   })
 }
+
+export function showSuccess(title){
+  wx.showToast({
+    title : title,
+    icon : "success"
+  })
+}
